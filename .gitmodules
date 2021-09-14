@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Mirea-Ikbo-17-18/anticafe-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Mirea-Ikbo-17-18/anticafe-backend.git
