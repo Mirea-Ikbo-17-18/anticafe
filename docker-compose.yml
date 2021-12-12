@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+    backend:
+        image: ghcr.io/mirea-ikbo-17-18/anticafe/backend
+    frontend:
+        image: ghcr.io/mirea-ikbo-17-18/anticafe/frontend
+    proxy:
+        image: ghcr.io/mirea-ikbo-17-18/anticafe/proxy
